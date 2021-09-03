@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864939428859",
+    "project_id": "authdemoabsen",
+    "storage_bucket": "authdemoabsen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864939428859:android:d3eddc859475985068195e",
+        "android_client_info": {
+          "package_name": "com.example.coba_absen_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864939428859-nl184qc34qbq4aiqs9r98au80t7q7k7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOEdfgagG6PKHa7sdumCvU4381Ceri8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864939428859-nl184qc34qbq4aiqs9r98au80t7q7k7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
